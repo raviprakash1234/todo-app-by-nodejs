@@ -1,5 +1,5 @@
 {
-  "name": "todo-app",
+  "name": "node-js-mini-projects",
   "version": "1.0.0",
   "description": "",
   "homepage": "https://github.com/raviprakash1234/todo-app-by-nodejs#readme",
@@ -16,5 +16,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
   }
 }
